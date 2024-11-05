@@ -7,11 +7,11 @@ Redirect to the original URL when accessing the shortened link
 Persistent storage with MongoDB for URL mappings
 Minimal and efficient API design
 <h2>Tech Stack</h2>
-Node.js: Backend runtime environment
-Express: Framework for routing and API handling
-MongoDB: Database to store URL mappings
-EJS: Templating engine for rendering dynamic HTML pages
-Nodemon: Tool that automatically restarts the server during development
+Node.js: Backend runtime environment <br>
+Express: Framework for routing and API handling <br>
+MongoDB: Database to store URL mappings <br>
+EJS: Templating engine for rendering dynamic HTML pages <br>
+Nodemon: Tool that automatically restarts the server during development <br>
 
 <h2>Getting Started </h2>
 To set up and run this project locally, follow these steps:
