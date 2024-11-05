@@ -1,18 +1,19 @@
-URL Shortener
+<h1>URL Shortener</h1>
 A simple URL shortener built with Node.js, Express, and MongoDB. This application takes a long URL and generates a shorter, unique alias for it. Users can use these shortened URLs to easily share or access content. The app also keeps track of the original URLs, making it easy to retrieve them later.
 
-Features
+<h2>Features </h2>
 Generate short, unique URLs for any given link
 Redirect to the original URL when accessing the shortened link
 Persistent storage with MongoDB for URL mappings
 Minimal and efficient API design
-Tech Stack
+<h2>Tech Stack</h2>
 Node.js: Backend runtime environment
 Express: Framework for routing and API handling
 MongoDB: Database to store URL mappings
 EJS: Templating engine for rendering dynamic HTML pages
 Nodemon: Tool that automatically restarts the server during development
-Getting Started
+
+<h2>Getting Started </h2>
 To set up and run this project locally, follow these steps:
 
 Clone the repository
